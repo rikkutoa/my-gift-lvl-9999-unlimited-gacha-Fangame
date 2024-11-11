@@ -7,4 +7,5 @@ https://myanimelist.net/manga/136930/Shinjiteita_Nakama-tachi_ni_Dungeon_Okuchi_
 
 
 
-There is an engine i plan on useing its in devoplement so this game idea and porgress is on hold till then 
+there is an engine I plan on using; it’s in development, so this game idea and progress are on hold until then. RPGMaker was a fallout for me; I felt too restricted in what I wanted to do and could do without having to pay someone to help me. I don’t have anything against coders that release plugins, but the amount of lag and the lost data due to data corruption was unsettling. At times, my last project, I was working on all the progress went dark, and I became unable to load the project file.
+
